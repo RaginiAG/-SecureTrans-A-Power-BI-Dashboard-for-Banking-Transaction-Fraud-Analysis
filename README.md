@@ -1,0 +1,2 @@
+# -SecureTrans-A-Power-BI-Dashboard-for-Banking-Transaction-Fraud-Analysis
+This project showcases a Power BI dashboard built to analyze banking transactions and detect fraud patterns using interactive visuals, DAX measures, and network behavior insights. The dataset includes fields like transaction types, timestamps, fraud flags, devices, geolocation, and 6G network metrics such as latency and bandwidth.

@@ -12,8 +12,8 @@
 
 ## 📂 Dataset Source
 
-**Kaggle Dataset**:  
-[Dataset]()
+**Kaggle Dataset (Transaction Data for Banking Operations)**:  
+[Dataset](https://www.kaggle.com/datasets/ziya07/transaction-data-for-banking-operations)
 
 ---
 ## 🧠 Insights Gained
@@ -22,7 +22,8 @@
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot]()
+# Transaction Overview Dashboard 
+![Dashboard Screenshot](https://github.com/RaginiAG/SecureTrans-A-Power-BI-Dashboard-for-Banking-Transaction-Fraud-Analysis/blob/main/Overview%20Dashboard.png)
 
 ---
 

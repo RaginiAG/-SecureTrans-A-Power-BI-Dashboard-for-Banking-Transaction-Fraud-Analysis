@@ -22,7 +22,7 @@
 
 ## 📷 Dashboard Preview
 
-# Transaction Overview Dashboard 
+### Transaction Overview Dashboard 
 ![Dashboard Screenshot](https://github.com/RaginiAG/SecureTrans-A-Power-BI-Dashboard-for-Banking-Transaction-Fraud-Analysis/blob/main/Overview%20Dashboard.png)
 
 ---

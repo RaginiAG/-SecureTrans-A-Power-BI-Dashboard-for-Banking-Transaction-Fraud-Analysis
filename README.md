@@ -89,6 +89,7 @@ To design and develop an interactive Power BI dashboard that analyzes banking tr
 
 SecureTrans successfully demonstrates how advanced data visualization and analytics in Power BI can be leveraged to uncover fraudulent banking transactions, monitor operational performance, and assess technical risk. Through a structured 3-page dashboard layout, it provides actionable insights for stakeholders by combining business metrics, fraud behavior patterns, and technical indicators like latency and network slice performance.
 By combining DAX-based risk scoring, geospatial mapping, and interactive drill-downs, this project delivers a practical solution for fraud detection and informed decision-making. It demonstrates the real-world impact of data storytelling, transformation, and visualization in financial analytics.
+
 ---
 
   ## ⭐️ If you found this project useful, consider giving it a star on GitHub!

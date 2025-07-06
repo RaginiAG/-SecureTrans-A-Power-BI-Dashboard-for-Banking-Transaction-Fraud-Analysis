@@ -66,7 +66,7 @@ To design and develop an interactive Power BI dashboard that analyzes banking tr
 - Improved data cleaning and transformation skills using Power Query.  
 - Created custom DAX logic for fraud detection, risk scoring, and latency analysis.  
 - Used time-based and geospatial visuals to highlight anomalies.  
-- Applied interactive slicers and navigation for better user control and storytelling.
+- Applied interactive slicers for better user control and storytelling.
 
 ---
 

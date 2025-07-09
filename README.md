@@ -41,7 +41,7 @@ To design and develop an interactive Power BI dashboard that analyzes banking tr
 - 📊 Fraud Count by Latency/Bandwidth Range  
 - 🔘 Slicers: Fraud Flag, Device, Date  
 
-![Dashboard Screenshot]()
+![Dashboard Screenshot](https://github.com/RaginiAG/SecureTrans-A-Power-BI-Dashboard-for-Banking-Transaction-Fraud-Analysis/blob/main/Fraud%20Analytics.png)
 
 ### 🔹 Page 3: Technical & Risk Insights
 
@@ -54,7 +54,7 @@ To design and develop an interactive Power BI dashboard that analyzes banking tr
 - 🧾 Table: Suspicious Transactions (not flagged as fraud)  
 - 🔘 Slicers: Risk Score, Bandwidth, Device Used  
 
-![Dashboard Screenshot]()
+![Dashboard Screenshot](https://github.com/RaginiAG/SecureTrans-A-Power-BI-Dashboard-for-Banking-Transaction-Fraud-Analysis/blob/main/Technical%20%26%20Risk%20Insights.png)
 
 ---
 

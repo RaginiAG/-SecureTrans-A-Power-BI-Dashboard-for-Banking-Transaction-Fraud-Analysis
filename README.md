@@ -1,12 +1,4 @@
 # SecureTrans - A Power BI Dashboard for Banking Transaction Fraud Analysis
-
-## 🚧 Status: Currently Working On
-
-This project is under active development.  
-More features, visuals, and enhancements are being added regularly.
-
----
-
 ## 🎯 Objective
 
 To design and develop an interactive Power BI dashboard that analyzes banking transaction data, identifies fraudulent patterns, and visualizes key metrics to support data-driven decision-making in financial operations.
